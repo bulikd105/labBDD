@@ -2,7 +2,6 @@ package edu.iis.mto.bdd.trains.model;
 
 import com.google.common.collect.ImmutableList;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
